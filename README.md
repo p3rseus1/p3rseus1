@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Emanuel
 - 👀 I’m interested in programming and network.
-- 🌱 I’m currently learning html, css, language c.
+- 🌱 I’m currently learning html, css.
 - 💞️ I’m looking to learn.
 - 📫 How to reach me on my linkedin? www.linkedin.com/in/victor-emanuel1
 
